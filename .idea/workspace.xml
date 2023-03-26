@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d7b0725-0e5d-4eb8-82c5-935eeaaeaadc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/answers/exercise1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answers/exercise10.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise10.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answers/exercise11.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise11.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answers/exercise12.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise12.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answers/exercise13.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise13.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answers/exercise14.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise14.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answers/exercise15.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise15.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answers/exercise16.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise16.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answers/exercise2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise2.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answers/exercise3.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise3.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answers/exercise4.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise4.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answers/exercise5.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise5.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answers/exercise6.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise6.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answers/exercise7.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise7.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answers/exercise8.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise8.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answers/exercise9.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise9.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NYsQ38AeGqfbSLwP2TBsfvv9VQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jacobp/Desktop/projects/WEEK4/DE.SQL.GiveMeTheGoods&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d7b0725-0e5d-4eb8-82c5-935eeaaeaadc" name="Changes" comment="" />
+      <created>1679852330475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679852330475</updated>
+    </task>
+    <servers />
+  </component>
+</project>
